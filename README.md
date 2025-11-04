@@ -9,6 +9,7 @@
 ## 🛠 **Skills**
 
 **Backend:** ☕ Java, Spring, Spring Boot, Spring MVC, RESTful API, Microservices Architecture  
+**•	Networking & Security** 🔗 Networking Basics, OSI model, TCP/IP, SSL/TLS, VPN concepts, Network Encryption, Firewalls, Packet Transmission Basics
 **Frontend:** 🌐 Angular, HTML, CSS, TypeScript, Bootstrap, Material UI  
 **Version Control:** 🗃️ Git version control  
 **Security & Authentication:** 🔒 Spring Security, JWT  
