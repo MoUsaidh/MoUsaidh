@@ -1,5 +1,5 @@
 # 🌟 **S MOHAMMED USAIDH**  
-💻 Java Full Stack Developer | 🚀 Spring Boot & Angular Specialist | 🌐 Microservices Enthusiast  
+💻 Java Full Stack Developer | 🚀 Spring Boot | 🌐 Microservices Enthusiast  
 
 📧 Email: usaidhsuhail@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedusaidh) | [GitHub](https://github.com/MoUsaidh)  
